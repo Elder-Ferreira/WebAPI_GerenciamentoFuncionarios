@@ -9,6 +9,6 @@ namespace WebAPI_Funcionario.Service.FuncionarioService
         Task<ServiceResponse<FuncionarioModel>> GetFuncionarioById(int id);
         Task<ServiceResponse<List<FuncionarioModel>>> UpdateFuncionario(FuncionarioModel editadoFuncionario);
         Task<ServiceResponse<FuncionarioModel>> DeleteFuncionario(int id);
-        Task<ServiceResponse<FuncionarioModel>> InativaFuncionario(int id);
+        Task<ServiceResponse<List<FuncionarioModel>>> InativaFuncionario(int id);
     }
 }

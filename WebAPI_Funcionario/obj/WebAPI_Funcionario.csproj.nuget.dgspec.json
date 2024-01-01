@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj": {}
+    "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_GerenciamentoFuncionarios\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj": {
+    "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_GerenciamentoFuncionarios\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj",
+        "projectUniqueName": "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_GerenciamentoFuncionarios\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj",
         "projectName": "WebAPI_Funcionario",
-        "projectPath": "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj",
+        "projectPath": "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_GerenciamentoFuncionarios\\WebAPI_Funcionario\\WebAPI_Funcionario.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_Funcionario\\obj\\",
+        "outputPath": "C:\\Workspace\\WebAPI_Funcionario\\WebAPI_GerenciamentoFuncionarios\\WebAPI_Funcionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
